@@ -1,0 +1,11 @@
+E:\vizsga\fuggohidak\fuggohidak\bin\Debug\fuggohidak.exe.config
+E:\vizsga\fuggohidak\fuggohidak\bin\Debug\fuggohidak.exe
+E:\vizsga\fuggohidak\fuggohidak\bin\Debug\fuggohidak.pdb
+E:\vizsga\fuggohidak\fuggohidak\obj\Debug\fuggohidak.csproj.AssemblyReference.cache
+E:\vizsga\fuggohidak\fuggohidak\obj\Debug\fuggohidak.Form1.resources
+E:\vizsga\fuggohidak\fuggohidak\obj\Debug\fuggohidak.Properties.Resources.resources
+E:\vizsga\fuggohidak\fuggohidak\obj\Debug\fuggohidak.csproj.GenerateResource.cache
+E:\vizsga\fuggohidak\fuggohidak\obj\Debug\fuggohidak.csproj.CoreCompileInputs.cache
+E:\vizsga\fuggohidak\fuggohidak\obj\Debug\fuggohidak.exe
+E:\vizsga\fuggohidak\fuggohidak\obj\Debug\fuggohidak.pdb
+E:\vizsga\fuggohidak\fuggohidak\obj\Debug\fuggohidak.Form2.resources

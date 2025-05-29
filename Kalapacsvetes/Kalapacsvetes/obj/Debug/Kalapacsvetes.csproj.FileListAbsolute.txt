@@ -1,0 +1,7 @@
+E:\vizsga\kalapacsvetes\Kalapacsvetes\Kalapacsvetes\bin\Debug\Kalapacsvetes.exe.config
+E:\vizsga\kalapacsvetes\Kalapacsvetes\Kalapacsvetes\bin\Debug\Kalapacsvetes.exe
+E:\vizsga\kalapacsvetes\Kalapacsvetes\Kalapacsvetes\bin\Debug\Kalapacsvetes.pdb
+E:\vizsga\kalapacsvetes\Kalapacsvetes\Kalapacsvetes\obj\Debug\Kalapacsvetes.csproj.AssemblyReference.cache
+E:\vizsga\kalapacsvetes\Kalapacsvetes\Kalapacsvetes\obj\Debug\Kalapacsvetes.csproj.CoreCompileInputs.cache
+E:\vizsga\kalapacsvetes\Kalapacsvetes\Kalapacsvetes\obj\Debug\Kalapacsvetes.exe
+E:\vizsga\kalapacsvetes\Kalapacsvetes\Kalapacsvetes\obj\Debug\Kalapacsvetes.pdb
